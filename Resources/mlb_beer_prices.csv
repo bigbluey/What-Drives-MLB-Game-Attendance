@@ -1,0 +1,156 @@
+Year,Team,Team Name,Nickname,City, Price , Size ,PPO
+2013,ARI,Arizona Diamondbacks,Diamondbacks,Arizona,4,14,0.29
+2013,ATL,Atlanta Braves,Braves,Atlanta,7.25,16,0.45
+2013,BAL,Baltimore Orioles,Orioles,Baltimore,6.75,18,0.38
+2013,BOS,Boston Red Sox,Red Sox,Boston,7.25,12,0.6
+2013,CHC,Chicago Cubs,Cubs,Chicago,7.25,16,0.45
+2013,CHW,Chicago White Sox,White Sox,Chicago,6.5,16,0.41
+2013,CIN,Cincinnati Reds,Reds,Cincinnati,5.5,12,0.46
+2013,CLE,Cleveland Indians,Indians,Cleveland,4,12,0.33
+2013,COL,Colorado Rockies,Rockies,Colorado,6,16,0.38
+2013,DET,Detroit Tigers,Tigers,Detroit,5,12,0.42
+2013,HOU,Houston Astros,Astros,Houston,5,14,0.36
+2013,KCR,Kansas City Royals,Royals,Kansas City,6.5,16,0.41
+2013,LAA,Los Angeles Angels,Angels,Anaheim,4.5,16,0.28
+2013,LAD,Los Angeles Dodgers,Dodgers,Los Angeles,6.25,16,0.39
+2013,MIA,Miami Marlins,Marlins,Miami,8,20,0.4
+2013,MIL,Milwaukee Brewers,Brewers,Milwaukee,6,16,0.38
+2013,MIN,Minnesota Twins,Twins,Minnesota,7.5,20,0.38
+2013,NYM,New York Mets,Mets,New York,5.75,12,0.48
+2013,NYY,New York Yankees,Yankees,New York,6,12,0.5
+2013,OAK,Oakland Athletics,Athletics,Oakland,5,14,0.36
+2013,PHI,Philadelphia Phillies,Phillies,Philadelphia,7.75,21,0.37
+2013,PIT,Pittsburgh Pirates,Pirates,Pittsburgh,5.5,16,0.34
+2013,SDP,San Diego Padres,Padres,San Diego,5,14,0.36
+2013,SEA,San Francisco Giants,Giants,San Francisco,6.75,16,0.42
+2013,SFG,Seattle Mariners,Mariners,Seattle,5.5,12,0.46
+2013,STL,St. Louis Cardinals,Cardinals,St. Louis,6.75,12,0.56
+2013,TBR,Tampa Bay Rays,Rays,Tampa,5,12,0.42
+2013,TEX,Texas Rangers,Rangers,Arlington,5,16,0.31
+2013,TOR,Toronto Blue Jays,Blue Jays,Toronto,7.34,14,0.52
+2013,WSN,Washington Nationals,Nationals,Washington,8.25,16,0.52
+2013,MLB,MLB Average,MLB Average,,6.09,15,0.41
+2014,ARI,Arizona Diamondbacks,Diamondbacks,Arizona,4,14,0.29
+2014,ATL,Atlanta Braves,Braves,Atlanta,7.25,16,0.45
+2014,BAL,Baltimore Orioles,Orioles,Baltimore,6.75,16,0.42
+2014,BOS,Boston Red Sox,Red Sox,Boston,7.75,12,0.65
+2014,CHC,Chicago Cubs,Cubs,Chicago,7.5,16,0.47
+2014,CHW,Chicago White Sox,White Sox,Chicago,6.5,16,0.41
+2014,CIN,Cincinnati Reds,Reds,Cincinnati,5.5,12,0.46
+2014,CLE,Cleveland Indians,Indians,Cleveland,4,12,0.33
+2014,COL,Colorado Rockies,Rockies,Colorado,6,16,0.38
+2014,DET,Detroit Tigers,Tigers,Detroit,5,12,0.42
+2014,HOU,Houston Astros,Astros,Houston,5,14,0.36
+2014,KCR,Kansas City Royals,Royals,Kansas City,6.5,16,0.41
+2014,LAA,Los Angeles Angels,Angels,Anaheim,4.5,16,0.28
+2014,LAD,Los Angeles Dodgers,Dodgers,Los Angeles,6.75,20,0.34
+2014,MIA,Miami Marlins,Marlins,Miami,8,16,0.5
+2014,MIL,Milwaukee Brewers,Brewers,Milwaukee,6,16,0.38
+2014,MIN,Minnesota Twins,Twins,Minnesota,7.5,20,0.38
+2014,NYM,New York Mets,Mets,New York,5.75,12,0.48
+2014,NYY,New York Yankees,Yankees,New York,6,12,0.5
+2014,OAK,Oakland Athletics,Athletics,Oakland,5,12,0.42
+2014,PHI,Philadelphia Phillies,Phillies,Philadelphia,7.75,21,0.37
+2014,PIT,Pittsburgh Pirates,Pirates,Pittsburgh,5.5,16,0.34
+2014,SDP,San Diego Padres,Padres,San Diego,5,14,0.36
+2014,SEA,San Francisco Giants,Giants,San Francisco,7,14,0.5
+2014,SFG,Seattle Mariners,Mariners,Seattle,6,12,0.5
+2014,STL,St. Louis Cardinals,Cardinals,St. Louis,6.75,12,0.56
+2014,TBR,Tampa Bay Rays,Rays,Tampa,5,12,0.42
+2014,TEX,Texas Rangers,Rangers,Arlington,5,16,0.31
+2014,TOR,Toronto Blue Jays,Blue Jays,Toronto,6.82,14,0.49
+2014,WSN,Washington Nationals,Nationals,Washington,6.5,16,0.41
+2014,MLB,MLB Average,MLB Average,,6.09,15,0.41
+2015,ARI,Arizona Diamondbacks,Diamondbacks,Arizona,4,14,0.29
+2015,ATL,Atlanta Braves,Braves,Atlanta,7.25,16,0.45
+2015,BAL,Baltimore Orioles,Orioles,Baltimore,6.75,16,0.42
+2015,BOS,Boston Red Sox,Red Sox,Boston,7.75,12,0.65
+2015,CHC,Chicago Cubs,Cubs,Chicago,7.5,16,0.47
+2015,CHW,Chicago White Sox,White Sox,Chicago,6.5,16,0.41
+2015,CIN,Cincinnati Reds,Reds,Cincinnati,5.5,12,0.46
+2015,CLE,Cleveland Indians,Indians,Cleveland,4,12,0.33
+2015,COL,Colorado Rockies,Rockies,Colorado,6,16,0.38
+2015,DET,Detroit Tigers,Tigers,Detroit,5,12,0.42
+2015,HOU,Houston Astros,Astros,Houston,5,14,0.36
+2015,KCR,Kansas City Royals,Royals,Kansas City,6.5,16,0.41
+2015,LAA,Los Angeles Angels,Angels,Anaheim,4.5,16,0.28
+2015,LAD,Los Angeles Dodgers,Dodgers,Los Angeles,6.75,20,0.34
+2015,MIA,Miami Marlins,Marlins,Miami,8,16,0.5
+2015,MIL,Milwaukee Brewers,Brewers,Milwaukee,6,16,0.38
+2015,MIN,Minnesota Twins,Twins,Minnesota,7.5,20,0.38
+2015,NYM,New York Mets,Mets,New York,5.75,12,0.48
+2015,NYY,New York Yankees,Yankees,New York,6,12,0.5
+2015,OAK,Oakland Athletics,Athletics,Oakland,5,12,0.42
+2015,PHI,Philadelphia Phillies,Phillies,Philadelphia,7.75,21,0.37
+2015,PIT,Pittsburgh Pirates,Pirates,Pittsburgh,5.5,16,0.34
+2015,SDP,San Diego Padres,Padres,San Diego,5,14,0.36
+2015,SEA,San Francisco Giants,Giants,San Francisco,7,14,0.5
+2015,SFG,Seattle Mariners,Mariners,Seattle,6,12,0.5
+2015,STL,St. Louis Cardinals,Cardinals,St. Louis,6.75,12,0.56
+2015,TBR,Tampa Bay Rays,Rays,Tampa,5,12,0.42
+2015,TEX,Texas Rangers,Rangers,Arlington,5,16,0.31
+2015,TOR,Toronto Blue Jays,Blue Jays,Toronto,6.82,14,0.49
+2015,WSN,Washington Nationals,Nationals,Washington,6.5,16,0.41
+2015,MLB,MLB Average,MLB Average,,5.98,15,0.4
+2016,ARI,Arizona Diamondbacks,Diamondbacks,Arizona,4,14,0.29
+2016,ATL,Atlanta Braves,Braves,Atlanta,7.75,16,0.48
+2016,BAL,Baltimore Orioles,Orioles,Baltimore,6.75,16,0.42
+2016,BOS,Boston Red Sox,Red Sox,Boston,7.75,12,0.65
+2016,CHC,Chicago Cubs,Cubs,Chicago,7.5,16,0.47
+2016,CHW,Chicago White Sox,White Sox,Chicago,6.5,16,0.41
+2016,CIN,Cincinnati Reds,Reds,Cincinnati,5.25,14,0.38
+2016,CLE,Cleveland Indians,Indians,Cleveland,4,12,0.33
+2016,COL,Colorado Rockies,Rockies,Colorado,3,12,0.25
+2016,DET,Detroit Tigers,Tigers,Detroit,5,12,0.42
+2016,HOU,Houston Astros,Astros,Houston,5,14,0.36
+2016,KCR,Kansas City Royals,Royals,Kansas City,6.5,16,0.41
+2016,LAA,Los Angeles Angels,Angels,Anaheim,4.5,16,0.28
+2016,LAD,Los Angeles Dodgers,Dodgers,Los Angeles,6.25,20,0.31
+2016,MIA,Miami Marlins,Marlins,Miami,6,12,0.5
+2016,MIL,Milwaukee Brewers,Brewers,Milwaukee,6,16,0.38
+2016,MIN,Minnesota Twins,Twins,Minnesota,7.5,20,0.38
+2016,NYM,New York Mets,Mets,New York,5.75,12,0.48
+2016,NYY,New York Yankees,Yankees,New York,6,12,0.5
+2016,OAK,Oakland Athletics,Athletics,Oakland,5,12,0.42
+2016,PHI,Philadelphia Phillies,Phillies,Philadelphia,7.75,21,0.37
+2016,PIT,Pittsburgh Pirates,Pirates,Pittsburgh,5.5,16,0.34
+2016,SDP,San Diego Padres,Padres,San Diego,5,14,0.36
+2016,SEA,San Francisco Giants,Giants,San Francisco,7.5,14,0.54
+2016,SFG,Seattle Mariners,Mariners,Seattle,6,16,0.38
+2016,STL,St. Louis Cardinals,Cardinals,St. Louis,5,12,0.42
+2016,TBR,Tampa Bay Rays,Rays,Tampa,5,12,0.42
+2016,TEX,Texas Rangers,Rangers,Arlington,6,16,0.38
+2016,TOR,Toronto Blue Jays,Blue Jays,Toronto,6.79,14,0.49
+2016,WSN,Washington Nationals,Nationals,Washington,6.5,16,0.41
+2016,MLB,MLB Average,MLB Average,,5.9,15,0.4
+2018,ARI,Arizona Diamondbacks,Diamondbacks,Arizona,4,14,0.29
+2018,ATL,Atlanta Braves,Braves,Atlanta,5,12,0.42
+2018,BAL,Baltimore Orioles,Orioles,Baltimore,4,12,0.33
+2018,BOS,Boston Red Sox,Red Sox,Boston,8,12,0.67
+2018,CHC,Chicago Cubs,Cubs,Chicago,9,20,0.45
+2018,CHW,Chicago White Sox,White Sox,Chicago,7,16,0.44
+2018,CIN,Cincinnati Reds,Reds,Cincinnati,6.25,14,0.45
+2018,CLE,Cleveland Indians,Indians,Cleveland,5,12,0.42
+2018,COL,Colorado Rockies,Rockies,Colorado,3,12,0.25
+2018,DET,Detroit Tigers,Tigers,Detroit,5,12,0.42
+2018,HOU,Houston Astros,Astros,Houston,6,14,0.43
+2018,KCR,Kansas City Royals,Royals,Kansas City,4,12,0.33
+2018,LAA,Los Angeles Angels,Angels,Anaheim,4.5,12,0.38
+2018,LAD,Los Angeles Dodgers,Dodgers,Los Angeles,6.25,16,0.39
+2018,MIA,Miami Marlins,Marlins,Miami,6,12,0.5
+2018,MIL,Milwaukee Brewers,Brewers,Milwaukee,7,16,0.44
+2018,MIN,Minnesota Twins,Twins,Minnesota,8.5,20,0.43
+2018,NYM,New York Mets,Mets,New York,10.5,20,0.53
+2018,NYY,New York Yankees,Yankees,New York,6,12,0.5
+2018,OAK,Oakland Athletics,Athletics,Oakland,5.5,12,0.46
+2018,PHI,Philadelphia Phillies,Phillies,Philadelphia,6,12,0.5
+2018,PIT,Pittsburgh Pirates,Pirates,Pittsburgh,6,16,0.38
+2018,SDP,San Diego Padres,Padres,San Diego,5,12,0.42
+2018,SEA,San Francisco Giants,Giants,San Francisco,8.25,14,0.59
+2018,SFG,Seattle Mariners,Mariners,Seattle,5,12,0.42
+2018,STL,St. Louis Cardinals,Cardinals,St. Louis,5,12,0.42
+2018,TBR,Tampa Bay Rays,Rays,Tampa,5,12,0.42
+2018,TEX,Texas Rangers,Rangers,Arlington,6,16,0.38
+2018,TOR,Toronto Blue Jays,Blue Jays,Toronto,5.67,14,0.41
+2018,WSN,Washington Nationals,Nationals,Washington,7,14,0.5
+2018,MLB,MLB Average,MLB Average,,5.98,14,0.43
